@@ -1,0 +1,2889 @@
+{
+    "version": "0.4",
+    "title": "Career Opportunities",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "5f52c812",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "12",
+                    "row": "12",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 12
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "4",
+                    "left": "1",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "3bf24c13",
+                    "settings": {
+                        "title": "No 1 Mental Health Clinic",
+                        "align": "center",
+                        "_flex_align_self": "center",
+                        "__globals__": {
+                            "typography_typography": "globals\/typography?id=text",
+                            "title_color": "globals\/colors?id=primary",
+                            "_background_color": "globals\/colors?id=3f4dc8d"
+                        },
+                        "typography_line_height": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "typography_word_spacing": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_padding": {
+                            "unit": "px",
+                            "top": "8",
+                            "right": "12",
+                            "bottom": "8",
+                            "left": "12",
+                            "isLinked": false
+                        },
+                        "_background_background": "classic",
+                        "_border_radius": {
+                            "unit": "px",
+                            "top": "32",
+                            "right": "32",
+                            "bottom": "32",
+                            "left": "32",
+                            "isLinked": true
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "3d0422e2",
+                    "settings": {
+                        "text": "Join Our Team, Make a \nDifference {{Every Day}}",
+                        "__globals__": {
+                            "head_typography_typography": "globals\/typography?id=38f9d9d",
+                            "wrap_head_typography_typography": "globals\/typography?id=f923ef6",
+                            "wrap_headtext_background_color": "globals\/colors?id=e295b0d",
+                            "headtext_background_color": "globals\/colors?id=e295b0d"
+                        },
+                        "headtext_background_background": "classic",
+                        "wrap_headtext_background_background": "classic",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 49.641
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_flex_align_self": "center",
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 993,
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_flex_size": "none"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rkit_advanced_heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "184ce594",
+                    "settings": {
+                        "editor": "<p>Explore rewarding career opportunities where your passion meets purpose in supporting mental health and transforming lives<\/p>",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 37,
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "_flex_align_self": "center",
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 100
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "3890dcff",
+                    "settings": {
+                        "ekit_btn_text": "Schedule a Visit",
+                        "ekit_btn_text_padding": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "58",
+                            "bottom": "15",
+                            "left": "58",
+                            "isLinked": false
+                        },
+                        "ekit_btn_bg_color_background": "classic",
+                        "ekit_btn_border_radius": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "50",
+                            "bottom": "50",
+                            "left": "50",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "ekit_btn_typography_typography": "globals\/typography?id=accent",
+                            "ekit_btn_text_color": "globals\/colors?id=primary",
+                            "ekit_btn_bg_color_color": "globals\/colors?id=751bbcc",
+                            "ekit_btn_hover_color": "globals\/colors?id=f74a39a",
+                            "ekit_btn_bg_hover_color_color": "globals\/colors?id=e32684d",
+                            "ekit_btn_border_color": "globals\/colors?id=e32684d",
+                            "ekit_btn_hover_border_color": "globals\/colors?id=e32684d"
+                        },
+                        "ekit_btn_bg_hover_color_background": "classic",
+                        "ekit_btn_border_style": "solid",
+                        "ekit_btn_border_dimensions": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "_flex_align_self": "center",
+                        "_margin": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_animation": "bounceInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 200
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "elementskit-button",
+                    "elType": "widget"
+                },
+                {
+                    "id": "6ca51ed2",
+                    "settings": {
+                        "image": {
+                            "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/Group-11-2-1.png",
+                            "id": 245,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "image_size": "full",
+                        "_margin": {
+                            "unit": "px",
+                            "top": "66",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_animation": "bounceInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 300
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "image",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "77acee2b",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "12",
+                    "row": "12",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 12
+                },
+                "background_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "4",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=6b78f35"
+                }
+            },
+            "elements": [
+                {
+                    "id": "2390af00",
+                    "settings": {
+                        "title": "NuraCare Clinic \nMental Heath Culture",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 53.159
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "typography_typography": "globals\/typography?id=f923ef6",
+                            "title_color": "globals\/colors?id=e295b0d"
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_flex_size": "none"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "400f5810",
+                    "settings": {
+                        "editor": "<p>Fostering a culture of compassion, growth, and inclusivity to empower our team and support every journey to mental wellness<\/p>",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "text_color": "globals\/colors?id=e295b0d",
+                            "typography_typography": "globals\/typography?id=text"
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 100
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "7f290a7e",
+                    "settings": {
+                        "container_type": "grid",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid",
+                        "content_width": "full",
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "29",
+                            "row": "24",
+                            "isLinked": false,
+                            "unit": "px"
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "75",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "animation_delay": 200
+                    },
+                    "elements": [
+                        {
+                            "id": "7997e4d5",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-8.png",
+                                    "id": 677,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "title_text": "Compassion-Driven Care",
+                                "description_text": "We prioritize empathy and understanding in everything we do, ensuring a safe and supportive environment for both our clients.",
+                                "position": "left",
+                                "image_space": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "141",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "12",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": true
+                                },
+                                "_background_background": "classic",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "12",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "_background_color": "globals\/colors?id=primary",
+                                    "title_typography_typography": "globals\/typography?id=43cb27c",
+                                    "title_color": "globals\/colors?id=f74a39a",
+                                    "description_typography_typography": "globals\/typography?id=accent",
+                                    "description_color": "globals\/colors?id=f74a39a"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3cb15792",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-10.png",
+                                    "id": 675,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "title_text": "Inclusivity and Respect",
+                                "description_text": "We celebrate diversity and ensure that everyone\u2014clients, employees, and partners\u2014is treated with respect, dignity, and equality.",
+                                "position": "left",
+                                "image_space": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "141",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "12",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": true
+                                },
+                                "_background_background": "classic",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "12",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "_background_color": "globals\/colors?id=primary",
+                                    "title_typography_typography": "globals\/typography?id=43cb27c",
+                                    "title_color": "globals\/colors?id=f74a39a",
+                                    "description_typography_typography": "globals\/typography?id=accent",
+                                    "description_color": "globals\/colors?id=f74a39a"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4378dbee",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-9.png",
+                                    "id": 676,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "title_text": "Collaboration and Growth",
+                                "description_text": "We believe in teamwork and continuous learning, fostering an environment where professionals can grow, share knowledge, and innovate together.",
+                                "position": "left",
+                                "image_space": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "141",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "12",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": true
+                                },
+                                "_background_background": "classic",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "12",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "_background_color": "globals\/colors?id=primary",
+                                    "title_typography_typography": "globals\/typography?id=43cb27c",
+                                    "title_color": "globals\/colors?id=f74a39a",
+                                    "description_typography_typography": "globals\/typography?id=accent",
+                                    "description_color": "globals\/colors?id=f74a39a"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "48fcc014",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-11.png",
+                                    "id": 674,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "title_text": "Wellness-Focused Workplace",
+                                "description_text": "We practice what we promote by encouraging work-life balance, mental wellness, and self-care for our entire team.",
+                                "position": "left",
+                                "image_space": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "141",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "12",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": true
+                                },
+                                "_background_background": "classic",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "12",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "_background_color": "globals\/colors?id=primary",
+                                    "title_typography_typography": "globals\/typography?id=43cb27c",
+                                    "title_color": "globals\/colors?id=f74a39a",
+                                    "description_typography_typography": "globals\/typography?id=accent",
+                                    "description_color": "globals\/colors?id=f74a39a"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "4d290432",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "12",
+                    "row": "12",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 12
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "5",
+                    "left": "1",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7a3a6b6a",
+                    "settings": {
+                        "title": "Build a Career That \nInspires Hope and Healing",
+                        "align": "center",
+                        "_flex_align_self": "center",
+                        "__globals__": {
+                            "typography_typography": "globals\/typography?id=f923ef6",
+                            "title_color": "globals\/colors?id=e295b0d"
+                        },
+                        "typography_line_height": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "typography_word_spacing": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 57.106
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_flex_size": "none"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "5d5fbf40",
+                    "settings": {
+                        "editor": "<p>Be part of a compassionate team dedicated to supporting mental health and creating positive change in the community<\/p>",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 37,
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "_flex_align_self": "center",
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "text_color": "globals\/colors?id=e295b0d",
+                            "typography_typography": "globals\/typography?id=text"
+                        },
+                        "typography_line_height": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "typography_word_spacing": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "drop_cap_typography_line_height": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "drop_cap_typography_word_spacing": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 100
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "31e859a9",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "42",
+                            "row": "42",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 42
+                        },
+                        "background_background": "classic",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "12",
+                            "bottom": "12",
+                            "left": "12",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "68",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=f74a39a"
+                        },
+                        "flex_gap_tablet": {
+                            "column": "20",
+                            "row": "20",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 20
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "12",
+                            "bottom": "12",
+                            "left": "12",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "54e103f3",
+                            "settings": {
+                                "content_width": "full",
+                                "min_height": {
+                                    "unit": "px",
+                                    "size": 345,
+                                    "sizes": []
+                                },
+                                "flex_justify_content": "space-between",
+                                "background_background": "classic",
+                                "background_image": {
+                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/african-female-therapist-listens-to-mid-adult-male-2024-10-18-06-30-42-utc.jpg",
+                                    "id": 64,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "background_size": "cover",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "14",
+                                    "right": "14",
+                                    "bottom": "36",
+                                    "left": "14",
+                                    "isLinked": false
+                                },
+                                "background_position_tablet": "initial",
+                                "background_position_mobile": "center center",
+                                "background_xpos_tablet": {
+                                    "unit": "px",
+                                    "size": -426,
+                                    "sizes": []
+                                },
+                                "background_xpos_mobile": {
+                                    "unit": "px",
+                                    "size": -229,
+                                    "sizes": []
+                                },
+                                "background_position": "center center",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "6",
+                                    "right": "6",
+                                    "bottom": "6",
+                                    "left": "6",
+                                    "isLinked": true
+                                },
+                                "animation": "fadeIn",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "16de3f88",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "40",
+                                    "row": "40",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "1bb6832d",
+                                    "settings": {
+                                        "title": "Mental Health Counselor",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=f923ef6",
+                                            "title_color": "globals\/colors?id=e295b0d"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "3558b5fc",
+                                    "settings": {
+                                        "ekit_button_middle_text": "Or",
+                                        "ekit_dual_button_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "ekit_button_one_text": "Full-Time",
+                                        "ekit_button_one_icons": {
+                                            "value": "far fa-building",
+                                            "library": "fa-regular"
+                                        },
+                                        "ekit_button_two_text": "2+ Years Experience",
+                                        "ekit_double_button_one_color": "#001C38",
+                                        "ekit_double_button_one_icon_font_size": {
+                                            "unit": "px",
+                                            "size": 24,
+                                            "sizes": []
+                                        },
+                                        "ekit_double_button_one_border_border": "solid",
+                                        "ekit_double_button_one_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_one_border_color": "#001C38",
+                                        "ekit_double_button_one_border_radius": {
+                                            "unit": "px",
+                                            "top": "40",
+                                            "right": "40",
+                                            "bottom": "40",
+                                            "left": "40",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_one_background_background": "classic",
+                                        "ekit_double_button_one_background_color": "#02010100",
+                                        "ekit_double_button_one_hover_border_border": "solid",
+                                        "ekit_double_button_one_hover_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_one_hover_background_background": "classic",
+                                        "ekit_double_button_two_color": "#001C38",
+                                        "ekit_double_button_two_icon_font_size": {
+                                            "unit": "px",
+                                            "size": 24,
+                                            "sizes": []
+                                        },
+                                        "ekit_double_button_two_border_border": "solid",
+                                        "ekit_double_button_two_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_two_border_color": "#001C38",
+                                        "ekit_double_button_two_border_radius": {
+                                            "unit": "px",
+                                            "top": "40",
+                                            "right": "40",
+                                            "bottom": "40",
+                                            "left": "40",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_two_background_background": "classic",
+                                        "ekit_double_button_two_hover_border_border": "solid",
+                                        "ekit_double_button_two_hover_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_two_hover_background_background": "classic",
+                                        "__globals__": {
+                                            "ekit_double_button_one_color": "globals\/colors?id=primary",
+                                            "ekit_double_button_one_background_color": "globals\/colors?id=751bbcc",
+                                            "ekit_double_button_one_border_color": "globals\/colors?id=primary",
+                                            "ekit_double_button_two_color": "globals\/colors?id=primary",
+                                            "ekit_double_button_two_background_color": "globals\/colors?id=751bbcc",
+                                            "ekit_double_button_two_border_color": "globals\/colors?id=primary",
+                                            "ekit_double_button_one_hover_color": "globals\/colors?id=f74a39a",
+                                            "ekit_double_button_one_hover_background_color": "globals\/colors?id=e32684d",
+                                            "ekit_double_button_one_hover_border_color": "globals\/colors?id=e32684d",
+                                            "ekit_double_button_two_hover_color": "globals\/colors?id=f74a39a",
+                                            "ekit_double_button_two_hover_border_color": "globals\/colors?id=e32684d",
+                                            "ekit_double_button_two_hover_background_color": "globals\/colors?id=e32684d",
+                                            "ekit_double_button_two_typography_typography": "globals\/typography?id=text",
+                                            "ekit_double_button_one_typography_typography": "globals\/typography?id=accent"
+                                        },
+                                        "ekit_double_button_align_mobile": "center",
+                                        "ekit_dual_button_width_tablet": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "ekit_dual_button_width_mobile": {
+                                            "unit": "%",
+                                            "size": 50,
+                                            "sizes": []
+                                        },
+                                        "ekit_dual_button_gap": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "ekit_dual_button_gap_tablet": {
+                                            "unit": "px",
+                                            "size": 9,
+                                            "sizes": []
+                                        },
+                                        "ekit_double_button_one_padding": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_two_padding": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": false
+                                        },
+                                        "_element_width_tablet": "initial",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "px",
+                                            "size": 1000,
+                                            "sizes": []
+                                        },
+                                        "ekit_double_button_one_icon_before_specing": {
+                                            "unit": "px",
+                                            "size": 12,
+                                            "sizes": []
+                                        },
+                                        "ekit_button_two_icons": {
+                                            "value": "far fa-building",
+                                            "library": "fa-regular"
+                                        },
+                                        "ekit_double_button_two_icon_before_specing": {
+                                            "unit": "px",
+                                            "size": 12,
+                                            "sizes": []
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 72,
+                                            "sizes": []
+                                        },
+                                        "_animation": "bounceInUp",
+                                        "animation_duration": "slow",
+                                        "_animation_delay": 100
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "elementskit-dual-button",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "8acd1fd",
+                                    "settings": {
+                                        "editor": "<p>We are looking for a compassionate and skilled Mental Health Counselor to join our team. The ideal candidate will have experience providing therapy and support for individuals facing mental health challenges. You\u2019ll work closely with clients to assess needs, develop personalized treatment plans, and guide them toward emotional well-being.<\/p>",
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-14",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "__globals__": {
+                                            "text_color": "globals\/colors?id=e295b0d"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_animation_delay": 200
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "269d53db",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "12",
+                                            "row": "12",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 12
+                                        },
+                                        "background_background": "classic",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "box_shadow_box_shadow_type": "yes",
+                                        "box_shadow_box_shadow": {
+                                            "horizontal": 8,
+                                            "vertical": 12,
+                                            "blur": 12,
+                                            "spread": 0,
+                                            "color": "rgba(0, 0, 0, 0.04)"
+                                        },
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "12",
+                                            "right": "12",
+                                            "bottom": "12",
+                                            "left": "12",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=f74a39a",
+                                            "border_color": "globals\/colors?id=63479fd"
+                                        },
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "animation_delay": 300
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "754e2343",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Conduct individual and group counseling sessions",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "9a28902"
+                                                    },
+                                                    {
+                                                        "text": "Develop personalized care plans and        treatment strategies",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "454719e"
+                                                    },
+                                                    {
+                                                        "text": "Provide crisis intervention when necessary",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "3033bd7"
+                                                    },
+                                                    {
+                                                        "text": "Maintain accurate records of client progress",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "b98f905"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "text_indent": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "icon_self_vertical_align": "center",
+                                                "__globals__": {
+                                                    "icon_typography_typography": "globals\/typography?id=accent",
+                                                    "text_color": "globals\/colors?id=e295b0d",
+                                                    "icon_color": "globals\/colors?id=e295b0d"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "835a494",
+                                    "settings": {
+                                        "ekit_btn_text": "Apply Now",
+                                        "ekit_btn_text_padding": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "47",
+                                            "bottom": "15",
+                                            "left": "47",
+                                            "isLinked": false
+                                        },
+                                        "ekit_btn_bg_color_background": "classic",
+                                        "ekit_btn_border_radius": {
+                                            "unit": "px",
+                                            "top": "50",
+                                            "right": "50",
+                                            "bottom": "50",
+                                            "left": "50",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "ekit_btn_typography_typography": "globals\/typography?id=accent",
+                                            "ekit_btn_text_color": "globals\/colors?id=f74a39a",
+                                            "ekit_btn_bg_color_color": "globals\/colors?id=e32684d",
+                                            "ekit_btn_hover_color": "globals\/colors?id=e32684d",
+                                            "ekit_btn_bg_hover_color_color": "globals\/colors?id=751bbcc",
+                                            "ekit_btn_border_color": "globals\/colors?id=e32684d",
+                                            "ekit_btn_hover_border_color": "globals\/colors?id=e32684d"
+                                        },
+                                        "ekit_btn_bg_hover_color_background": "classic",
+                                        "ekit_btn_border_style": "solid",
+                                        "ekit_btn_border_dimensions": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_btn_align": "left",
+                                        "_animation": "bounceInUp",
+                                        "animation_duration": "slow",
+                                        "_animation_delay": 400
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "elementskit-button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "68174dd5",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "42",
+                            "row": "42",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 42
+                        },
+                        "background_background": "classic",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "12",
+                            "bottom": "12",
+                            "left": "12",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "68",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=f74a39a"
+                        },
+                        "flex_gap_tablet": {
+                            "column": "20",
+                            "row": "20",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 20
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "12",
+                            "bottom": "12",
+                            "left": "12",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3ddf62f8",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "40",
+                                    "row": "40",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "7f747e06",
+                                    "settings": {
+                                        "title": "Clinical Psychologist",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=f923ef6",
+                                            "title_color": "globals\/colors?id=e295b0d"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "94a374b",
+                                    "settings": {
+                                        "ekit_button_middle_text": "Or",
+                                        "ekit_dual_button_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "ekit_button_one_text": "Part-Time",
+                                        "ekit_button_one_icons": {
+                                            "value": "far fa-building",
+                                            "library": "fa-regular"
+                                        },
+                                        "ekit_button_two_text": "5+ Years Experience",
+                                        "ekit_double_button_one_color": "#001C38",
+                                        "ekit_double_button_one_icon_font_size": {
+                                            "unit": "px",
+                                            "size": 24,
+                                            "sizes": []
+                                        },
+                                        "ekit_double_button_one_border_border": "solid",
+                                        "ekit_double_button_one_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_one_border_color": "#001C38",
+                                        "ekit_double_button_one_border_radius": {
+                                            "unit": "px",
+                                            "top": "40",
+                                            "right": "40",
+                                            "bottom": "40",
+                                            "left": "40",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_one_background_background": "classic",
+                                        "ekit_double_button_one_background_color": "#02010100",
+                                        "ekit_double_button_one_hover_border_border": "solid",
+                                        "ekit_double_button_one_hover_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_one_hover_background_background": "classic",
+                                        "ekit_double_button_two_color": "#001C38",
+                                        "ekit_double_button_two_icon_font_size": {
+                                            "unit": "px",
+                                            "size": 24,
+                                            "sizes": []
+                                        },
+                                        "ekit_double_button_two_border_border": "solid",
+                                        "ekit_double_button_two_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_two_border_color": "#001C38",
+                                        "ekit_double_button_two_border_radius": {
+                                            "unit": "px",
+                                            "top": "40",
+                                            "right": "40",
+                                            "bottom": "40",
+                                            "left": "40",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_two_background_background": "classic",
+                                        "ekit_double_button_two_hover_border_border": "solid",
+                                        "ekit_double_button_two_hover_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_two_hover_background_background": "classic",
+                                        "__globals__": {
+                                            "ekit_double_button_one_color": "globals\/colors?id=primary",
+                                            "ekit_double_button_one_background_color": "globals\/colors?id=751bbcc",
+                                            "ekit_double_button_one_border_color": "globals\/colors?id=primary",
+                                            "ekit_double_button_two_color": "globals\/colors?id=primary",
+                                            "ekit_double_button_two_background_color": "globals\/colors?id=751bbcc",
+                                            "ekit_double_button_two_border_color": "globals\/colors?id=primary",
+                                            "ekit_double_button_one_hover_color": "globals\/colors?id=f74a39a",
+                                            "ekit_double_button_one_hover_background_color": "globals\/colors?id=e32684d",
+                                            "ekit_double_button_one_hover_border_color": "globals\/colors?id=e32684d",
+                                            "ekit_double_button_two_hover_color": "globals\/colors?id=f74a39a",
+                                            "ekit_double_button_two_hover_border_color": "globals\/colors?id=e32684d",
+                                            "ekit_double_button_two_hover_background_color": "globals\/colors?id=e32684d",
+                                            "ekit_double_button_two_typography_typography": "globals\/typography?id=text",
+                                            "ekit_double_button_one_typography_typography": "globals\/typography?id=accent"
+                                        },
+                                        "ekit_double_button_align_mobile": "center",
+                                        "ekit_dual_button_width_tablet": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "ekit_dual_button_width_mobile": {
+                                            "unit": "%",
+                                            "size": 50,
+                                            "sizes": []
+                                        },
+                                        "ekit_dual_button_gap": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "ekit_dual_button_gap_tablet": {
+                                            "unit": "px",
+                                            "size": 9,
+                                            "sizes": []
+                                        },
+                                        "ekit_double_button_one_padding": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "ekit_double_button_two_padding": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": false
+                                        },
+                                        "_element_width_tablet": "initial",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "px",
+                                            "size": 1000,
+                                            "sizes": []
+                                        },
+                                        "ekit_double_button_one_icon_before_specing": {
+                                            "unit": "px",
+                                            "size": 12,
+                                            "sizes": []
+                                        },
+                                        "ekit_button_two_icons": {
+                                            "value": "far fa-building",
+                                            "library": "fa-regular"
+                                        },
+                                        "ekit_double_button_two_icon_before_specing": {
+                                            "unit": "px",
+                                            "size": 12,
+                                            "sizes": []
+                                        },
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 72,
+                                            "sizes": []
+                                        },
+                                        "_animation": "bounceInUp",
+                                        "animation_duration": "slow",
+                                        "_animation_delay": 100
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "elementskit-dual-button",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2e368ffd",
+                                    "settings": {
+                                        "editor": "<p>We are seeking a Clinical Psychologist to provide high-quality mental health care to our patients. As part of our dedicated team, you will conduct assessments, provide therapeutic services, and assist in the development of treatment plans for individuals facing mental health challenges. You will play a vital role in helping clients improve their emotional health and overall quality of life.<\/p>",
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "-14",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "__globals__": {
+                                            "text_color": "globals\/colors?id=e295b0d"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_animation_delay": 200
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "908da8b",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "12",
+                                            "row": "12",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 12
+                                        },
+                                        "background_background": "classic",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "box_shadow_box_shadow_type": "yes",
+                                        "box_shadow_box_shadow": {
+                                            "horizontal": 8,
+                                            "vertical": 12,
+                                            "blur": 12,
+                                            "spread": 0,
+                                            "color": "rgba(0, 0, 0, 0.04)"
+                                        },
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "12",
+                                            "right": "12",
+                                            "bottom": "12",
+                                            "left": "12",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=f74a39a",
+                                            "border_color": "globals\/colors?id=63479fd"
+                                        },
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "animation_delay": 300
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7901717c",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Conduct psychological assessments and diagnose mental health conditions",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "9a28902"
+                                                    },
+                                                    {
+                                                        "text": "Provide evidence-based therapy, such as CBT or DBT",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "454719e"
+                                                    },
+                                                    {
+                                                        "text": "Collaborate with therapists, counselors, and other",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "3033bd7"
+                                                    },
+                                                    {
+                                                        "text": "Participate in ongoing professional development .",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "b98f905"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "text_indent": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "icon_self_vertical_align": "center",
+                                                "__globals__": {
+                                                    "icon_typography_typography": "globals\/typography?id=accent",
+                                                    "text_color": "globals\/colors?id=e295b0d",
+                                                    "icon_color": "globals\/colors?id=e295b0d"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "6f4bd949",
+                                    "settings": {
+                                        "ekit_btn_text": "Apply Now",
+                                        "ekit_btn_text_padding": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "47",
+                                            "bottom": "15",
+                                            "left": "47",
+                                            "isLinked": false
+                                        },
+                                        "ekit_btn_bg_color_background": "classic",
+                                        "ekit_btn_border_radius": {
+                                            "unit": "px",
+                                            "top": "50",
+                                            "right": "50",
+                                            "bottom": "50",
+                                            "left": "50",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "ekit_btn_typography_typography": "globals\/typography?id=accent",
+                                            "ekit_btn_text_color": "globals\/colors?id=f74a39a",
+                                            "ekit_btn_bg_color_color": "globals\/colors?id=e32684d",
+                                            "ekit_btn_hover_color": "globals\/colors?id=e32684d",
+                                            "ekit_btn_bg_hover_color_color": "globals\/colors?id=751bbcc",
+                                            "ekit_btn_border_color": "globals\/colors?id=e32684d",
+                                            "ekit_btn_hover_border_color": "globals\/colors?id=e32684d"
+                                        },
+                                        "ekit_btn_bg_hover_color_background": "classic",
+                                        "ekit_btn_border_style": "solid",
+                                        "ekit_btn_border_dimensions": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_btn_align": "left",
+                                        "_animation": "bounceInUp",
+                                        "animation_duration": "slow",
+                                        "_animation_delay": 400
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "elementskit-button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "1efd0d8c",
+                            "settings": {
+                                "content_width": "full",
+                                "min_height": {
+                                    "unit": "px",
+                                    "size": 345,
+                                    "sizes": []
+                                },
+                                "flex_justify_content": "space-between",
+                                "background_background": "classic",
+                                "background_image": {
+                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/happy-asian-woman-looking-at-camera-while-visiting-2023-11-27-05-34-23-utc.jpg",
+                                    "id": 84,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "background_size": "cover",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "14",
+                                    "right": "14",
+                                    "bottom": "36",
+                                    "left": "14",
+                                    "isLinked": false
+                                },
+                                "background_position_tablet": "initial",
+                                "background_position_mobile": "center center",
+                                "background_xpos_tablet": {
+                                    "unit": "px",
+                                    "size": -291,
+                                    "sizes": []
+                                },
+                                "background_xpos_mobile": {
+                                    "unit": "px",
+                                    "size": -229,
+                                    "sizes": []
+                                },
+                                "background_position": "center left",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "6",
+                                    "right": "6",
+                                    "bottom": "6",
+                                    "left": "6",
+                                    "isLinked": true
+                                },
+                                "animation": "fadeIn",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "79b18ce2",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "40",
+                    "row": "40",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 40
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "5",
+                    "left": "1",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "8130fdd",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_gap": {
+                            "column": "34",
+                            "row": "34",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 34
+                        },
+                        "background_background": "classic",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=3f4dc8d"
+                        },
+                        "animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "elements": [
+                        {
+                            "id": "2519dfe1",
+                            "settings": {
+                                "title": "Application Form",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=ce757de",
+                                    "title_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "33180092",
+                            "settings": {
+                                "mf_form_id": "687***1734663784494",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "24",
+                                    "right": "24",
+                                    "bottom": "24",
+                                    "left": "24",
+                                    "isLinked": true
+                                },
+                                "_background_background": "classic",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "24",
+                                    "right": "24",
+                                    "bottom": "24",
+                                    "left": "24",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "_background_color": "globals\/colors?id=f74a39a"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "metform",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "37a0c5e5",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "12",
+                    "row": "12",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 12
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "5",
+                    "left": "1",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "1fb4bfeb",
+                    "settings": {
+                        "title": "Inspiring Journeys of Growth, Dedication, and Positive Impact",
+                        "align": "center",
+                        "_flex_align_self": "center",
+                        "__globals__": {
+                            "typography_typography": "globals\/typography?id=f923ef6",
+                            "title_color": "globals\/colors?id=e295b0d"
+                        },
+                        "typography_line_height": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "typography_word_spacing": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 69.763
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_flex_size": "none"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "50b39ece",
+                    "settings": {
+                        "editor": "<p>Fostering a culture of compassion, growth, and inclusivity to empower our team and support every journey to mental wellness<\/p>",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "_flex_align_self": "center",
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "text_color": "globals\/colors?id=e295b0d",
+                            "typography_typography": "globals\/typography?id=text"
+                        },
+                        "typography_line_height": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "typography_word_spacing": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "drop_cap_typography_line_height": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "drop_cap_typography_word_spacing": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 100
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "2f4c492e",
+                    "settings": {
+                        "layout_style": "style_3",
+                        "testi_list": [
+                            {
+                                "author_name": "Emily Johannson",
+                                "author_occupation": "Mental health Counselor",
+                                "testimonial_review": "When Emily Johnson joined Harmony Mental Health Clinic three years ago, she was a newly licensed counselor driven by a deep passion to help people. At first, she faced challenges navigating complex client cases and managing her own emotional well-being. However, with the clinic\u2019s supportive environment, continuous training programs, and mentorship from senior therapists, Emily\u2019s confidence grew.",
+                                "_id": "c24e757",
+                                "client_avatar": {
+                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/cheerful-confident-real-estate-agent-with-clipboar-2023-11-27-05-16-42-utc-2.png",
+                                    "id": 257,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                }
+                            },
+                            {
+                                "author_name": "Dr. Mark Thompson",
+                                "author_occupation": "Licensed Clinical Social Worker",
+                                "testimonial_review": "When Emily Johnson joined Harmony Mental Health Clinic three years ago, she was a newly licensed counselor driven by a deep passion to help people. At first, she faced challenges navigating complex client cases and managing her own emotional well-being. However, with the clinic\u2019s supportive environment, continuous training programs, and mentorship from senior therapists, Emily\u2019s confidence grew.",
+                                "client_avatar": {
+                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/mature-business-man-street-and-portrait-with-glas-2023-11-27-04-53-58-utc-2.png",
+                                    "id": 259,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_id": "71fa794"
+                            },
+                            {
+                                "author_name": "Dr. Sarah Collins",
+                                "author_occupation": "Board-Certified Psychiatrist",
+                                "testimonial_review": "When Emily Johnson joined Harmony Mental Health Clinic three years ago, she was a newly licensed counselor driven by a deep passion to help people. At first, she faced challenges navigating complex client cases and managing her own emotional well-being. However, with the clinic\u2019s supportive environment, continuous training programs, and mentorship from senior therapists, Emily\u2019s confidence grew.",
+                                "client_avatar": {
+                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-5-2.png",
+                                    "id": 195,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_id": "d662751"
+                            }
+                        ],
+                        "show_rating": "",
+                        "slide_to_show": 1,
+                        "slide_to_show_tablet": 1,
+                        "wrapper_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "card_padding": {
+                            "unit": "px",
+                            "top": "80",
+                            "right": "60",
+                            "bottom": "80",
+                            "left": "60",
+                            "isLinked": false
+                        },
+                        "card_background_background": "classic",
+                        "body_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "100",
+                            "isLinked": false
+                        },
+                        "body_radius": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "review_align": "left",
+                        "author_align": "left",
+                        "avatar_width": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "avatar_padding": {
+                            "unit": "px",
+                            "top": "28",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "icon_quote_size": {
+                            "unit": "px",
+                            "size": 60,
+                            "sizes": []
+                        },
+                        "dot_background_normal_background": "classic",
+                        "dot_background_hover_background": "classic",
+                        "dot_background_active_background": "classic",
+                        "__globals__": {
+                            "card_background_color": "globals\/colors?id=6b78f35",
+                            "review_typography_typography": "globals\/typography?id=accent",
+                            "review_color": "globals\/colors?id=e295b0d",
+                            "author_typography_typography": "globals\/typography?id=8191543",
+                            "author_name_color": "globals\/colors?id=e295b0d",
+                            "author_occupation_typography_typography": "globals\/typography?id=text",
+                            "author_occupation_color": "globals\/colors?id=e295b0d",
+                            "quote_color": "globals\/colors?id=primary",
+                            "dot_background_active_color": "globals\/colors?id=e32684d",
+                            "dot_background_hover_color": "globals\/colors?id=e32684d",
+                            "dot_background_normal_color": "globals\/colors?id=text"
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "43",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 200
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rkit-testimonial-carousel",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "1727bd18",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "4",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=6b78f35"
+                },
+                "flex_gap": {
+                    "column": "32",
+                    "row": "32",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 32
+                }
+            },
+            "elements": [
+                {
+                    "id": "1271f47",
+                    "settings": {
+                        "text": "Your Questions {{Answered}}",
+                        "__globals__": {
+                            "head_typography_typography": "globals\/typography?id=38f9d9d",
+                            "wrap_head_typography_typography": "globals\/typography?id=f923ef6",
+                            "wrap_headtext_background_color": "globals\/colors?id=e295b0d",
+                            "headtext_background_color": "globals\/colors?id=e295b0d"
+                        },
+                        "headtext_background_background": "classic",
+                        "wrap_headtext_background_background": "classic",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 58,
+                            "sizes": []
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_flex_align_self": "center",
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rkit_advanced_heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "2db7f38e",
+                    "settings": {
+                        "editor": "<p>Explore answers to common questions about our services, process, and more. We're here to provide clarity and support as you embark on your journey to mental well-being.<\/p>",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 38,
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "_flex_align_self": "center",
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 100
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "34786893",
+                    "settings": {
+                        "list_items": [
+                            {
+                                "accordion_title": "What types of therapy do you offer?",
+                                "open_default": "yes",
+                                "item_description": "<p>We offer a range of therapy options, including individual therapy, group therapy, and family therapy. Our experienced therapists work closely with you to determine the best approach for your needs.<\/p>",
+                                "_id": "348f258"
+                            },
+                            {
+                                "accordion_title": "How do I know if therapy is right for me?",
+                                "item_description": "<p>We offer a range of therapy options, including individual therapy, group therapy, and family therapy. Our experienced therapists work closely with you to determine the best approach for your needs.<\/p>",
+                                "_id": "56f67c8"
+                            },
+                            {
+                                "accordion_title": "How long does a therapy session typically last?",
+                                "item_description": "<p>We offer a range of therapy options, including individual therapy, group therapy, and family therapy. Our experienced therapists work closely with you to determine the best approach for your needs.<\/p>",
+                                "_id": "084c113"
+                            },
+                            {
+                                "accordion_title": "Do you offer virtual therapy sessions?",
+                                "item_description": "<p>Do you offer virtual therapy sessions?<\/p>",
+                                "_id": "4bf9462"
+                            },
+                            {
+                                "accordion_title": "How do I schedule an appointment?",
+                                "item_description": "<p>How do I schedule an appointment?<\/p>",
+                                "_id": "c9b13f1"
+                            }
+                        ],
+                        "accordion_spacing": {
+                            "unit": "px",
+                            "size": 24,
+                            "sizes": []
+                        },
+                        "title_padding": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "0",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "title_radius_close": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        },
+                        "acc_background_close_background": "classic",
+                        "acc_border_close_border": "solid",
+                        "acc_border_close_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "title_radius_open": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "acc_background_open_background": "classic",
+                        "acc_border_open_border": "solid",
+                        "acc_background_hover_background": "classic",
+                        "acc_border_hover_border": "solid",
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 24,
+                            "sizes": []
+                        },
+                        "icon_box_width": {
+                            "unit": "px",
+                            "size": 48,
+                            "sizes": []
+                        },
+                        "icon_box_height": {
+                            "unit": "px",
+                            "size": 48,
+                            "sizes": []
+                        },
+                        "icon_box_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "icon_box_radius": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "40",
+                            "bottom": "40",
+                            "left": "40",
+                            "isLinked": true
+                        },
+                        "icon_background_close_background": "classic",
+                        "icon_background_open_background": "classic",
+                        "icon_background_hover_background": "classic",
+                        "content_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "100",
+                            "bottom": "20",
+                            "left": "35",
+                            "isLinked": false
+                        },
+                        "content_radius": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": false
+                        },
+                        "background_background": "classic",
+                        "__globals__": {
+                            "title_typography_typography": "globals\/typography?id=fa4db82",
+                            "content_typography_typography": "globals\/typography?id=text",
+                            "text_color_close": "globals\/colors?id=secondary",
+                            "acc_background_close_color": "globals\/colors?id=f74a39a",
+                            "content_color": "globals\/colors?id=text",
+                            "background_color": "globals\/colors?id=f74a39a",
+                            "icon_color_close": "globals\/colors?id=secondary",
+                            "icon_background_close_color": "globals\/colors?id=f74a39a",
+                            "text_color_open": "globals\/colors?id=secondary",
+                            "acc_background_open_color": "globals\/colors?id=f74a39a",
+                            "acc_border_close_color": "globals\/colors?id=63479fd",
+                            "icon_color_open": "globals\/colors?id=f74a39a",
+                            "icon_background_open_color": "globals\/colors?id=e32684d",
+                            "icon_color_hover": "globals\/colors?id=f74a39a",
+                            "icon_background_hover_color": "globals\/colors?id=e32684d",
+                            "text_color_hover": "globals\/colors?id=secondary",
+                            "acc_background_hover_color": "globals\/colors?id=f74a39a",
+                            "icon_border_close_color": "globals\/colors?id=4640e4c",
+                            "acc_border_open_color": "globals\/colors?id=63479fd",
+                            "acc_border_hover_color": "globals\/colors?id=63479fd",
+                            "border_content_color": "globals\/colors?id=63479fd"
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 200,
+                        "icon_border_close_border": "solid",
+                        "icon_border_close_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "content_padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "30",
+                            "bottom": "30",
+                            "left": "30",
+                            "isLinked": false
+                        },
+                        "acc_border_open_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "0",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "acc_border_hover_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_content_border": "solid",
+                        "border_content_width": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rkit-accordion",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "fa1e594",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1519,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_size": "cover",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "4",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary"
+                }
+            },
+            "elements": [
+                {
+                    "id": "e8c8d94",
+                    "settings": {
+                        "content_width": "full",
+                        "min_height": {
+                            "unit": "px",
+                            "size": 350,
+                            "sizes": []
+                        },
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/Group-11-1.png",
+                            "id": 232,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "center center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "contain",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "flex_justify_content": "center",
+                        "flex_gap": {
+                            "column": "31",
+                            "row": "31",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 31
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "b35899d",
+                            "settings": {
+                                "text": "Take the First Step {{Toward Healing}}",
+                                "__globals__": {
+                                    "head_typography_typography": "globals\/typography?id=38f9d9d",
+                                    "wrap_head_typography_typography": "globals\/typography?id=f923ef6",
+                                    "wrap_headtext_background_color": "globals\/colors?id=f74a39a",
+                                    "headtext_background_color": "globals\/colors?id=f74a39a"
+                                },
+                                "headtext_background_background": "classic",
+                                "wrap_headtext_background_background": "classic",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 63,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_flex_align_self": "center",
+                                "_element_custom_width_tablet": {
+                                    "unit": "px",
+                                    "size": 1000,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "rkit_advanced_heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2d84d95d",
+                            "settings": {
+                                "editor": "<p>Schedule an appointment with us and experience the warmth and understanding of our compassionate team.<\/p>",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 52,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "_flex_align_self": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=f74a39a"
+                                },
+                                "_element_custom_width_tablet": {
+                                    "unit": "px",
+                                    "size": 1000,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_animation_delay": 100
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "9c51b7a",
+                            "settings": {
+                                "ekit_btn_text": "Book Your Appointment",
+                                "ekit_btn_text_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "32",
+                                    "bottom": "15",
+                                    "left": "32",
+                                    "isLinked": false
+                                },
+                                "ekit_btn_bg_color_background": "classic",
+                                "ekit_btn_border_radius": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "ekit_btn_typography_typography": "globals\/typography?id=accent",
+                                    "ekit_btn_text_color": "globals\/colors?id=f74a39a",
+                                    "ekit_btn_bg_color_color": "globals\/colors?id=e32684d",
+                                    "ekit_btn_hover_color": "globals\/colors?id=e32684d",
+                                    "ekit_btn_bg_hover_color_color": "globals\/colors?id=751bbcc",
+                                    "ekit_btn_border_color": "globals\/colors?id=e32684d",
+                                    "ekit_btn_hover_border_color": "globals\/colors?id=e32684d"
+                                },
+                                "ekit_btn_bg_hover_color_background": "classic",
+                                "ekit_btn_border_style": "solid",
+                                "ekit_btn_border_dimensions": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_flex_align_self": "center",
+                                "_animation": "bounceInUp",
+                                "animation_duration": "slow",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "version": "0.4",
+    "title": "Coming Soon",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "361b3149",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "min_height": {
+                    "unit": "px",
+                    "size": 973,
+                    "sizes": []
+                },
+                "flex_justify_content": "center",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "4",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "_flex_align_self": "center",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary"
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/WavesPattern-byGhostlyPixels-1-1.png",
+                    "id": 347,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.03,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "12",
+                    "row": "12",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 12
+                }
+            },
+            "elements": [
+                {
+                    "id": "2bc93759",
+                    "settings": {
+                        "text": "Something Awesome is {{on Its Way!}}",
+                        "__globals__": {
+                            "wrap_head_typography_typography": "globals\/typography?id=f923ef6",
+                            "head_typography_typography": "globals\/typography?id=38f9d9d",
+                            "headtext_background_color": "globals\/colors?id=e32684d",
+                            "wrap_headtext_background_color": "globals\/colors?id=f74a39a"
+                        },
+                        "headtext_background_background": "classic",
+                        "wrap_headtext_background_background": "classic",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 41,
+                            "sizes": []
+                        },
+                        "_flex_align_self": "center",
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 924,
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rkit_advanced_heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "309fc18",
+                    "settings": {
+                        "editor": "<p>We can\u2019t wait to share our creation that will redefine how you work, play, and create. Hang tight\u2014it\u2019s coming soon!<\/p>",
+                        "align": "center",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 35,
+                            "sizes": []
+                        },
+                        "_flex_align_self": "center",
+                        "__globals__": {
+                            "text_color": "globals\/colors?id=f74a39a",
+                            "typography_typography": "globals\/typography?id=text"
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 938,
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 100
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "2630c436",
+                    "settings": {
+                        "title": "Countdown Timer",
+                        "label_days": "Days",
+                        "label_hours": "Hours",
+                        "label_minutes": "Minutes",
+                        "label_seconds": "Seconds",
+                        "expired_title": "FINISH!",
+                        "expired_deskripsion": "Description",
+                        "background_section_background": "classic",
+                        "background_section_image": {
+                            "url": "",
+                            "id": "",
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_section_position": "center center",
+                        "background_section_repeat": "no-repeat",
+                        "background_section_size": "cover",
+                        "item_padding_title": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "item_padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        },
+                        "item_width": {
+                            "unit": "px",
+                            "size": 150,
+                            "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 70,
+                            "sizes": []
+                        },
+                        "_flex_align_self": "center",
+                        "_border_radius": {
+                            "unit": "px",
+                            "top": "32",
+                            "right": "32",
+                            "bottom": "32",
+                            "left": "32",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "title_typography_typography": "globals\/typography?id=ce757de",
+                            "title_color": "globals\/colors?id=e32684d",
+                            "time_expired_typography_typography": "globals\/typography?id=f923ef6",
+                            "text_color": "globals\/colors?id=e295b0d",
+                            "label_typography_typography": "globals\/typography?id=8191543",
+                            "label_color": "globals\/colors?id=e295b0d",
+                            "background_section_color": "globals\/colors?id=3f4dc8d",
+                            "expired_typography_typography": "globals\/typography?id=f923ef6",
+                            "background_time_color": "globals\/colors?id=e32684d",
+                            "expired_background_color": "",
+                            "title_expired_color": "globals\/colors?id=e295b0d"
+                        },
+                        "item_width_tablet": {
+                            "unit": "px",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "item_width_mobile": {
+                            "unit": "px",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 817,
+                            "sizes": []
+                        },
+                        "_animation": "fadeIn",
+                        "animation_duration": "slow",
+                        "_animation_delay": 200
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rkit-countdown",
+                    "elType": "widget"
+                },
+                {
+                    "id": "15321de3",
+                    "settings": {
+                        "ekit_btn_text": "Return to Home",
+                        "ekit_btn_text_padding": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "58",
+                            "bottom": "15",
+                            "left": "58",
+                            "isLinked": false
+                        },
+                        "ekit_btn_bg_color_background": "classic",
+                        "ekit_btn_border_radius": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "50",
+                            "bottom": "50",
+                            "left": "50",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "ekit_btn_typography_typography": "globals\/typography?id=accent",
+                            "ekit_btn_text_color": "globals\/colors?id=f74a39a",
+                            "ekit_btn_bg_color_color": "globals\/colors?id=e32684d",
+                            "ekit_btn_hover_color": "globals\/colors?id=e32684d",
+                            "ekit_btn_bg_hover_color_color": "globals\/colors?id=751bbcc",
+                            "ekit_btn_border_color": "globals\/colors?id=e32684d",
+                            "ekit_btn_hover_border_color": "globals\/colors?id=e32684d"
+                        },
+                        "ekit_btn_bg_hover_color_background": "classic",
+                        "ekit_btn_border_style": "solid",
+                        "ekit_btn_border_dimensions": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "_flex_align_self": "center",
+                        "_margin": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_background_color_stop_tablet": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_background_color_stop_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_background_color_b_stop_tablet": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_background_color_b_stop_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_background_gradient_angle_tablet": {
+                            "unit": "deg",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_background_gradient_angle_mobile": {
+                            "unit": "deg",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_background_gradient_position_tablet": "center center",
+                        "_background_gradient_position_mobile": "center center",
+                        "_background_hover_color_stop_tablet": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_background_hover_color_stop_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_background_hover_color_b_stop_tablet": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_background_hover_color_b_stop_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_background_hover_gradient_angle_tablet": {
+                            "unit": "deg",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_background_hover_gradient_angle_mobile": {
+                            "unit": "deg",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_background_hover_gradient_position_tablet": "center center",
+                        "_background_hover_gradient_position_mobile": "center center",
+                        "ekit_btn_url": {
+                            "url": "https:\/\/kit.createbigsupply.com\/harmony\/",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "_animation": "bounceInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 300
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "elementskit-button",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

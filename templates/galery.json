@@ -1,0 +1,2710 @@
+{
+    "version": "0.4",
+    "title": "Galery",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "3afde8da",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "12",
+                    "row": "12",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 12
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "4",
+                    "left": "1",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "3aebc882",
+                    "settings": {
+                        "title": "No 1 Mental Health Clinic",
+                        "align": "center",
+                        "_flex_align_self": "center",
+                        "__globals__": {
+                            "typography_typography": "globals\/typography?id=text",
+                            "title_color": "globals\/colors?id=primary",
+                            "_background_color": "globals\/colors?id=3f4dc8d"
+                        },
+                        "_padding": {
+                            "unit": "px",
+                            "top": "8",
+                            "right": "12",
+                            "bottom": "8",
+                            "left": "12",
+                            "isLinked": false
+                        },
+                        "_background_background": "classic",
+                        "_border_radius": {
+                            "unit": "px",
+                            "top": "32",
+                            "right": "32",
+                            "bottom": "32",
+                            "left": "32",
+                            "isLinked": true
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "15487bb7",
+                    "settings": {
+                        "text": "Tools and Guidance for a Healthier,  {{Happier You}}",
+                        "__globals__": {
+                            "head_typography_typography": "globals\/typography?id=38f9d9d",
+                            "wrap_head_typography_typography": "globals\/typography?id=f923ef6",
+                            "wrap_headtext_background_color": "globals\/colors?id=e295b0d",
+                            "headtext_background_color": "globals\/colors?id=e295b0d"
+                        },
+                        "headtext_background_background": "classic",
+                        "wrap_headtext_background_background": "classic",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 44,
+                            "sizes": []
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_flex_align_self": "center",
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 993,
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rkit_advanced_heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "26d8ab7a",
+                    "settings": {
+                        "editor": "<p>Explore articles, tools, and expert advice to support your mental wellness journey every step of the way<\/p>",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 42,
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "_flex_align_self": "center",
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "text_color": "globals\/colors?id=e295b0d"
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 100
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "7a4d2997",
+                    "settings": {
+                        "ekit_btn_text": "Schedule a Visit",
+                        "ekit_btn_text_padding": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "58",
+                            "bottom": "15",
+                            "left": "58",
+                            "isLinked": false
+                        },
+                        "ekit_btn_bg_color_background": "classic",
+                        "ekit_btn_border_radius": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "50",
+                            "bottom": "50",
+                            "left": "50",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "ekit_btn_typography_typography": "globals\/typography?id=accent",
+                            "ekit_btn_text_color": "globals\/colors?id=primary",
+                            "ekit_btn_bg_color_color": "globals\/colors?id=751bbcc",
+                            "ekit_btn_hover_color": "globals\/colors?id=f74a39a",
+                            "ekit_btn_bg_hover_color_color": "globals\/colors?id=e32684d",
+                            "ekit_btn_border_color": "globals\/colors?id=e32684d",
+                            "ekit_btn_hover_border_color": "globals\/colors?id=e32684d"
+                        },
+                        "ekit_btn_bg_hover_color_background": "classic",
+                        "ekit_btn_border_style": "solid",
+                        "ekit_btn_border_dimensions": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "_flex_align_self": "center",
+                        "_margin": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_animation": "bounceInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 200
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "elementskit-button",
+                    "elType": "widget"
+                },
+                {
+                    "id": "118ac234",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_justify_content": "center",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "68",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeIn",
+                        "animation_duration": "slow",
+                        "animation_delay": 300
+                    },
+                    "elements": [
+                        {
+                            "id": "5af09f2d",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-14.png",
+                                    "id": 280,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "61bd7b1f",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/happy-group-of-young-people-in-circle-2023-11-27-05-07-55-utc-2-1.png",
+                                    "id": 281,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "medium_large",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "208",
+                                    "right": "208",
+                                    "bottom": "208",
+                                    "left": "208",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4bd39665",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-15.png",
+                                    "id": 279,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "71178361",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 90,
+                    "column": "90",
+                    "row": "0"
+                },
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "5",
+                    "bottom": "0",
+                    "left": "5",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "2",
+                    "bottom": "0",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "1",
+                    "bottom": "0",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=3f4dc8d"
+                },
+                "flex_gap_tablet": {
+                    "column": "20",
+                    "row": "20",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 20
+                }
+            },
+            "elements": [
+                {
+                    "id": "370825be",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "flex_justify_content": "center",
+                        "flex_align_items": "center",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 24
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "55be561a",
+                            "settings": {
+                                "title": "Welcome to Harmony\nMental Health Clinic",
+                                "align": "center",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 84.377
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=ce757de",
+                                    "title_color": "globals\/colors?id=e295b0d"
+                                },
+                                "_element_custom_width_tablet": {
+                                    "unit": "px",
+                                    "size": 866,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_flex_size": "none"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "32e7bee6",
+                            "settings": {
+                                "editor": "<p>Discover a safe space where your mental well-being matters. Our compassionate team provides personalized care, guidance, and tools to help you heal, grow, and achieve lasting balance in life.<\/p>",
+                                "align": "center",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 75,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=e295b0d",
+                                    "typography_typography": "globals\/typography?id=accent"
+                                },
+                                "_element_custom_width_tablet": {
+                                    "unit": "px",
+                                    "size": 1000,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_animation_delay": 100,
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "drop_cap_typography_line_height": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "drop_cap_typography_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4db9ec6a",
+                            "settings": {
+                                "ekit_btn_text": "See More",
+                                "ekit_btn_text_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "88",
+                                    "bottom": "15",
+                                    "left": "88",
+                                    "isLinked": false
+                                },
+                                "ekit_btn_bg_color_background": "classic",
+                                "ekit_btn_border_radius": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "56",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_btn_typography_typography": "globals\/typography?id=text",
+                                    "ekit_btn_text_color": "globals\/colors?id=f74a39a",
+                                    "ekit_btn_bg_color_color": "globals\/colors?id=primary",
+                                    "ekit_btn_hover_color": "globals\/colors?id=f74a39a",
+                                    "ekit_btn_bg_hover_color_color": "globals\/colors?id=e32684d"
+                                },
+                                "ekit_btn_bg_hover_color_background": "classic",
+                                "_animation": "bounceInUp",
+                                "animation_duration": "slow",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "4ad6f456",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "min_height": {
+                            "unit": "px",
+                            "size": 1024,
+                            "sizes": []
+                        },
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/confident-mature-female-psychologist-in-formalwear-2023-11-27-04-56-50-utc.jpg",
+                            "id": 74,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "top center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "min_height_tablet": {
+                            "unit": "px",
+                            "size": 500,
+                            "sizes": []
+                        },
+                        "background_position_tablet": "center right",
+                        "animation": "fadeIn",
+                        "animation_duration": "slow"
+                    },
+                    "elements": [],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "245f2883",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 24
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "5",
+                    "left": "1",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2d2204d8",
+                    "settings": {
+                        "title": "Our Gallery",
+                        "align": "center",
+                        "_flex_align_self": "center",
+                        "__globals__": {
+                            "typography_typography": "globals\/typography?id=ce757de",
+                            "title_color": "globals\/colors?id=e295b0d"
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "63e2a257",
+                    "settings": {
+                        "editor": "<p>Discover inspiring moments and meaningful connections captured from our events, workshops, and sessions dedicated to mental health awareness.<\/p>",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 36,
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "_flex_align_self": "center",
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "text_color": "globals\/colors?id=e295b0d",
+                            "typography_typography": "globals\/typography?id=accent"
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 100
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "40b12429",
+                    "settings": {
+                        "tabs": [
+                            {
+                                "tab_title": "Facilities",
+                                "_id": "aab64a0",
+                                "tab_icon": {
+                                    "value": "far fa-building",
+                                    "library": "fa-regular"
+                                }
+                            },
+                            {
+                                "tab_title": "Our Team",
+                                "_id": "5be0bea",
+                                "tab_icon": {
+                                    "value": "fas fa-people-carry",
+                                    "library": "fa-solid"
+                                }
+                            },
+                            {
+                                "tab_title": "Events",
+                                "_id": "a24b62a",
+                                "tab_icon": {
+                                    "value": "far fa-calendar",
+                                    "library": "fa-regular"
+                                }
+                            }
+                        ],
+                        "tabs_title_space_between": {
+                            "unit": "px",
+                            "size": 24,
+                            "sizes": []
+                        },
+                        "tabs_title_spacing": {
+                            "unit": "px",
+                            "size": 65,
+                            "sizes": []
+                        },
+                        "tabs_title_background_color_background": "classic",
+                        "tabs_title_border_border": "solid",
+                        "tabs_title_border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "tabs_title_border_hover_border": "solid",
+                        "tabs_title_border_hover_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "hover_animation": "shrink",
+                        "tabs_title_border_active_border": "solid",
+                        "tabs_title_border_active_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "tabs_title_border_radius": {
+                            "unit": "px",
+                            "top": "32",
+                            "right": "32",
+                            "bottom": "32",
+                            "left": "32",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "20",
+                            "bottom": "12",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 24,
+                            "sizes": []
+                        },
+                        "icon_spacing": {
+                            "unit": "px",
+                            "size": 12,
+                            "sizes": []
+                        },
+                        "box_background_color_background": "classic",
+                        "__globals__": {
+                            "title_typography_typography": "globals\/typography?id=accent",
+                            "title_text_color": "globals\/colors?id=text",
+                            "title_text_color_active": "globals\/colors?id=primary",
+                            "box_background_color_color": "globals\/colors?id=751bbcc",
+                            "tabs_title_background_color_color": "globals\/colors?id=751bbcc",
+                            "tabs_title_background_color_hover_color": "globals\/colors?id=751bbcc",
+                            "tabs_title_background_color_active_color": "globals\/colors?id=751bbcc",
+                            "icon_color": "globals\/colors?id=text",
+                            "icon_color_active": "globals\/colors?id=primary",
+                            "title_text_stroke_stroke_color": "globals\/colors?id=primary",
+                            "tabs_title_border_active_color": "globals\/colors?id=primary",
+                            "tabs_title_border_color": "globals\/colors?id=63479fd",
+                            "title_text_color_hover": "globals\/colors?id=primary",
+                            "icon_color_hover": "globals\/colors?id=primary",
+                            "tabs_title_border_hover_color": "globals\/colors?id=primary"
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 200
+                    },
+                    "elements": [
+                        {
+                            "id": "702937eb",
+                            "settings": {
+                                "_title": "Tab #1",
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "column": "24",
+                                    "row": "24",
+                                    "isLinked": true
+                                },
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "1c6c3540",
+                                    "settings": {
+                                        "boxed_width": {
+                                            "unit": "px",
+                                            "size": 1600,
+                                            "sizes": []
+                                        },
+                                        "flex_direction": "row",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7e73609f",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "background_background": "classic",
+                                                "background_image": {
+                                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/medical-professional-and-patient-in-clinic-setting-2024-02-29-21-46-28-utc.jpg",
+                                                    "id": 99,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "background_position": "center center",
+                                                "background_size": "cover"
+                                            },
+                                            "elements": [],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "1f2ba5ad",
+                                            "settings": {
+                                                "container_type": "grid",
+                                                "presetTitle": "Grid",
+                                                "presetIcon": "eicon-container-grid",
+                                                "content_width": "full",
+                                                "grid_columns_grid": {
+                                                    "unit": "fr",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "grid_gaps": {
+                                                    "column": "24",
+                                                    "row": "24",
+                                                    "isLinked": true,
+                                                    "unit": "px"
+                                                },
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "41b9de92",
+                                                    "settings": {
+                                                        "wp_gallery": [
+                                                            {
+                                                                "id": 106,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/nurse-consulting-patient-at-facility-reception-cou-2023-11-27-04-49-38-utc.jpg"
+                                                            },
+                                                            {
+                                                                "id": 121,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/soldier-in-military-uniform-talking-to-psychiatris-2024-12-06-22-58-14-utc.jpg"
+                                                            }
+                                                        ],
+                                                        "thumbnail_size": "full",
+                                                        "gallery_columns": "2",
+                                                        "image_spacing": "custom",
+                                                        "image_spacing_custom": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "_flex_align_self": "flex-start"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image-gallery",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "76878427",
+                                                    "settings": {
+                                                        "wp_gallery": [
+                                                            {
+                                                                "id": 92,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/in-the-clinic-a-young-blonde-girl-at-an-appointmen-2024-12-04-16-43-50-utc.jpg"
+                                                            },
+                                                            {
+                                                                "id": 79,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/empty-doctors-office-viewed-through-open-door-2024-10-19-10-28-31-utc.jpg"
+                                                            }
+                                                        ],
+                                                        "thumbnail_size": "full",
+                                                        "gallery_columns": "2",
+                                                        "image_spacing": "custom",
+                                                        "image_spacing_custom": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "_flex_align_self": "flex-end"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image-gallery",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "232e1343",
+                                    "settings": {
+                                        "boxed_width": {
+                                            "unit": "px",
+                                            "size": 1600,
+                                            "sizes": []
+                                        },
+                                        "flex_direction": "row",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "61d4ecf5",
+                                            "settings": {
+                                                "container_type": "grid",
+                                                "presetTitle": "Grid",
+                                                "presetIcon": "eicon-container-grid",
+                                                "content_width": "full",
+                                                "grid_columns_grid": {
+                                                    "unit": "fr",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "grid_gaps": {
+                                                    "column": "24",
+                                                    "row": "24",
+                                                    "isLinked": true,
+                                                    "unit": "px"
+                                                },
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "12b3169d",
+                                                    "settings": {
+                                                        "wp_gallery": [
+                                                            {
+                                                                "id": 77,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/dental-hygienist-interacting-with-patients-in-the-2024-10-07-21-33-34-utc.jpg"
+                                                            },
+                                                            {
+                                                                "id": 90,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/interior-of-obstetric-clinic-cabinet-indoors-with-2023-11-27-04-59-19-utc.jpg"
+                                                            }
+                                                        ],
+                                                        "thumbnail_size": "full",
+                                                        "gallery_columns": "2",
+                                                        "image_spacing": "custom",
+                                                        "image_spacing_custom": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "_flex_align_self": "flex-start"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image-gallery",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "38bf6066",
+                                                    "settings": {
+                                                        "wp_gallery": [
+                                                            {
+                                                                "id": 81,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/entering-the-medical-consultation-together-2024-02-29-21-46-28-utc.jpg"
+                                                            },
+                                                            {
+                                                                "id": 78,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/doctor-s-consultation-in-a-clinical-office-2024-08-19-22-52-57-utc.jpg"
+                                                            }
+                                                        ],
+                                                        "thumbnail_size": "full",
+                                                        "gallery_columns": "2",
+                                                        "image_spacing": "custom",
+                                                        "image_spacing_custom": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "_flex_align_self": "flex-end"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image-gallery",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "33a5611d",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "background_background": "classic",
+                                                "background_image": {
+                                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/empty-space-of-a-hospital-consultation-room-2024-12-09-05-14-41-utc.jpg",
+                                                    "id": 80,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "background_position": "center center",
+                                                "background_size": "cover"
+                                            },
+                                            "elements": [],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container",
+                            "isLocked": true
+                        },
+                        {
+                            "id": "5a82a4ca",
+                            "settings": {
+                                "_title": "Tab #2",
+                                "content_width": "full"
+                            },
+                            "elements": [
+                                {
+                                    "id": "bfbc9b7",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "boxed_width": {
+                                            "unit": "px",
+                                            "size": 1600,
+                                            "sizes": []
+                                        },
+                                        "flex_direction": "row",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "25d1e799",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "background_background": "classic",
+                                                "background_image": {
+                                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/medical-professional-and-patient-in-clinic-setting-2024-02-29-21-46-28-utc.jpg",
+                                                    "id": 99,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "background_position": "center center",
+                                                "background_size": "cover"
+                                            },
+                                            "elements": [],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "8eaa48a",
+                                            "settings": {
+                                                "container_type": "grid",
+                                                "presetTitle": "Grid",
+                                                "presetIcon": "eicon-container-grid",
+                                                "content_width": "full",
+                                                "grid_columns_grid": {
+                                                    "unit": "fr",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "grid_gaps": {
+                                                    "column": "24",
+                                                    "row": "24",
+                                                    "isLinked": true,
+                                                    "unit": "px"
+                                                },
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "1475e642",
+                                                    "settings": {
+                                                        "wp_gallery": [
+                                                            {
+                                                                "id": 106,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/nurse-consulting-patient-at-facility-reception-cou-2023-11-27-04-49-38-utc.jpg"
+                                                            },
+                                                            {
+                                                                "id": 121,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/soldier-in-military-uniform-talking-to-psychiatris-2024-12-06-22-58-14-utc.jpg"
+                                                            }
+                                                        ],
+                                                        "thumbnail_size": "full",
+                                                        "gallery_columns": "2",
+                                                        "image_spacing": "custom",
+                                                        "image_spacing_custom": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "_flex_align_self": "flex-start"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image-gallery",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "76810013",
+                                                    "settings": {
+                                                        "wp_gallery": [
+                                                            {
+                                                                "id": 92,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/in-the-clinic-a-young-blonde-girl-at-an-appointmen-2024-12-04-16-43-50-utc.jpg"
+                                                            },
+                                                            {
+                                                                "id": 79,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/empty-doctors-office-viewed-through-open-door-2024-10-19-10-28-31-utc.jpg"
+                                                            }
+                                                        ],
+                                                        "thumbnail_size": "full",
+                                                        "gallery_columns": "2",
+                                                        "image_spacing": "custom",
+                                                        "image_spacing_custom": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "_flex_align_self": "flex-end"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image-gallery",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "535e8736",
+                                    "settings": {
+                                        "boxed_width": {
+                                            "unit": "px",
+                                            "size": 1600,
+                                            "sizes": []
+                                        },
+                                        "flex_direction": "row",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3cfee9b",
+                                            "settings": {
+                                                "container_type": "grid",
+                                                "presetTitle": "Grid",
+                                                "presetIcon": "eicon-container-grid",
+                                                "content_width": "full",
+                                                "grid_columns_grid": {
+                                                    "unit": "fr",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "grid_gaps": {
+                                                    "column": "24",
+                                                    "row": "24",
+                                                    "isLinked": true,
+                                                    "unit": "px"
+                                                },
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "e6f8d97",
+                                                    "settings": {
+                                                        "wp_gallery": [
+                                                            {
+                                                                "id": 77,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/dental-hygienist-interacting-with-patients-in-the-2024-10-07-21-33-34-utc.jpg"
+                                                            },
+                                                            {
+                                                                "id": 90,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/interior-of-obstetric-clinic-cabinet-indoors-with-2023-11-27-04-59-19-utc.jpg"
+                                                            }
+                                                        ],
+                                                        "thumbnail_size": "full",
+                                                        "gallery_columns": "2",
+                                                        "image_spacing": "custom",
+                                                        "image_spacing_custom": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "_flex_align_self": "flex-start"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image-gallery",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "576a6670",
+                                                    "settings": {
+                                                        "wp_gallery": [
+                                                            {
+                                                                "id": 81,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/entering-the-medical-consultation-together-2024-02-29-21-46-28-utc.jpg"
+                                                            },
+                                                            {
+                                                                "id": 78,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/doctor-s-consultation-in-a-clinical-office-2024-08-19-22-52-57-utc.jpg"
+                                                            }
+                                                        ],
+                                                        "thumbnail_size": "full",
+                                                        "gallery_columns": "2",
+                                                        "image_spacing": "custom",
+                                                        "image_spacing_custom": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "_flex_align_self": "flex-end"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image-gallery",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "2670191b",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "background_background": "classic",
+                                                "background_image": {
+                                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/empty-space-of-a-hospital-consultation-room-2024-12-09-05-14-41-utc.jpg",
+                                                    "id": 80,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "background_position": "center center",
+                                                "background_size": "cover"
+                                            },
+                                            "elements": [],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container",
+                            "isLocked": true
+                        },
+                        {
+                            "id": "2c192cc2",
+                            "settings": {
+                                "_title": "Tab #3",
+                                "content_width": "full"
+                            },
+                            "elements": [
+                                {
+                                    "id": "7b389a56",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "boxed_width": {
+                                            "unit": "px",
+                                            "size": 1600,
+                                            "sizes": []
+                                        },
+                                        "flex_direction": "row",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "680c8d8f",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "background_background": "classic",
+                                                "background_image": {
+                                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/medical-professional-and-patient-in-clinic-setting-2024-02-29-21-46-28-utc.jpg",
+                                                    "id": 99,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "background_position": "center center",
+                                                "background_size": "cover"
+                                            },
+                                            "elements": [],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "6cc3aad4",
+                                            "settings": {
+                                                "container_type": "grid",
+                                                "presetTitle": "Grid",
+                                                "presetIcon": "eicon-container-grid",
+                                                "content_width": "full",
+                                                "grid_columns_grid": {
+                                                    "unit": "fr",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "grid_gaps": {
+                                                    "column": "24",
+                                                    "row": "24",
+                                                    "isLinked": true,
+                                                    "unit": "px"
+                                                },
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "cdb601f",
+                                                    "settings": {
+                                                        "wp_gallery": [
+                                                            {
+                                                                "id": 106,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/nurse-consulting-patient-at-facility-reception-cou-2023-11-27-04-49-38-utc.jpg"
+                                                            },
+                                                            {
+                                                                "id": 121,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/soldier-in-military-uniform-talking-to-psychiatris-2024-12-06-22-58-14-utc.jpg"
+                                                            }
+                                                        ],
+                                                        "thumbnail_size": "full",
+                                                        "gallery_columns": "2",
+                                                        "image_spacing": "custom",
+                                                        "image_spacing_custom": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "_flex_align_self": "flex-start"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image-gallery",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "76094841",
+                                                    "settings": {
+                                                        "wp_gallery": [
+                                                            {
+                                                                "id": 92,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/in-the-clinic-a-young-blonde-girl-at-an-appointmen-2024-12-04-16-43-50-utc.jpg"
+                                                            },
+                                                            {
+                                                                "id": 79,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/empty-doctors-office-viewed-through-open-door-2024-10-19-10-28-31-utc.jpg"
+                                                            }
+                                                        ],
+                                                        "thumbnail_size": "full",
+                                                        "gallery_columns": "2",
+                                                        "image_spacing": "custom",
+                                                        "image_spacing_custom": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "_flex_align_self": "flex-end"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image-gallery",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "5648f0bc",
+                                    "settings": {
+                                        "boxed_width": {
+                                            "unit": "px",
+                                            "size": 1600,
+                                            "sizes": []
+                                        },
+                                        "flex_direction": "row",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "23be28f3",
+                                            "settings": {
+                                                "container_type": "grid",
+                                                "presetTitle": "Grid",
+                                                "presetIcon": "eicon-container-grid",
+                                                "content_width": "full",
+                                                "grid_columns_grid": {
+                                                    "unit": "fr",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "grid_gaps": {
+                                                    "column": "24",
+                                                    "row": "24",
+                                                    "isLinked": true,
+                                                    "unit": "px"
+                                                },
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "5d926edd",
+                                                    "settings": {
+                                                        "wp_gallery": [
+                                                            {
+                                                                "id": 77,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/dental-hygienist-interacting-with-patients-in-the-2024-10-07-21-33-34-utc.jpg"
+                                                            },
+                                                            {
+                                                                "id": 90,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/interior-of-obstetric-clinic-cabinet-indoors-with-2023-11-27-04-59-19-utc.jpg"
+                                                            }
+                                                        ],
+                                                        "thumbnail_size": "full",
+                                                        "gallery_columns": "2",
+                                                        "image_spacing": "custom",
+                                                        "image_spacing_custom": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "_flex_align_self": "flex-start"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image-gallery",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "4630ee83",
+                                                    "settings": {
+                                                        "wp_gallery": [
+                                                            {
+                                                                "id": 81,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/entering-the-medical-consultation-together-2024-02-29-21-46-28-utc.jpg"
+                                                            },
+                                                            {
+                                                                "id": 78,
+                                                                "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/doctor-s-consultation-in-a-clinical-office-2024-08-19-22-52-57-utc.jpg"
+                                                            }
+                                                        ],
+                                                        "thumbnail_size": "full",
+                                                        "gallery_columns": "2",
+                                                        "image_spacing": "custom",
+                                                        "image_spacing_custom": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "_flex_align_self": "flex-end"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image-gallery",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "65fbc445",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "background_background": "classic",
+                                                "background_image": {
+                                                    "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/empty-space-of-a-hospital-consultation-room-2024-12-09-05-14-41-utc.jpg",
+                                                    "id": 80,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "background_position": "center center",
+                                                "background_size": "cover"
+                                            },
+                                            "elements": [],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container",
+                            "isLocked": true
+                        }
+                    ],
+                    "isInner": false,
+                    "widgetType": "nested-tabs",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "71dfaad3",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 27,
+                    "column": "27",
+                    "row": "27",
+                    "isLinked": true
+                },
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "4",
+                    "left": "1",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "3c4e6eae",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4e61d524",
+                            "settings": {
+                                "mf_form_id": "562***1734587088932",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "24",
+                                    "bottom": "12",
+                                    "left": "24",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "12",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": true
+                                },
+                                "_background_background": "classic",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "6",
+                                    "right": "6",
+                                    "bottom": "6",
+                                    "left": "6",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "_background_color": "globals\/colors?id=3f4dc8d"
+                                },
+                                "_animation": "fadeIn",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "metform",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "49732878",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "flex_justify_content": "space-between",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "45b5aa6f",
+                            "settings": {
+                                "title": "Our Location",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=f923ef6",
+                                    "title_color": "globals\/colors?id=e295b0d"
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "208048fb",
+                            "settings": {
+                                "editor": "<p>4517 Washington Ave. Manchester, Kentucky 39495<\/p>",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-50",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=e295b0d"
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_animation_delay": 100
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "794e8e32",
+                            "settings": {
+                                "address": "London Eye, London, United Kingdom",
+                                "height": {
+                                    "unit": "px",
+                                    "size": 517,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeIn",
+                                "animation_duration": "slow",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "google_maps",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "160b7928",
+                            "settings": {
+                                "title": "Social Media",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-70",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=fa4db82",
+                                    "title_color": "globals\/colors?id=e295b0d"
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_animation_delay": 300
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "324232fa",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-whatsapp",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "a633747",
+                                        "item_icon_color": "custom",
+                                        "__globals__": {
+                                            "item_icon_primary_color": "globals\/colors?id=primary",
+                                            "item_icon_secondary_color": "globals\/colors?id=f74a39a"
+                                        }
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-instagram",
+                                            "library": "fa-brands"
+                                        },
+                                        "item_icon_color": "custom",
+                                        "__globals__": {
+                                            "item_icon_primary_color": "globals\/colors?id=primary",
+                                            "item_icon_secondary_color": "globals\/colors?id=f74a39a"
+                                        },
+                                        "_id": "5f75ebe"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-linkedin",
+                                            "library": "fa-brands"
+                                        },
+                                        "item_icon_color": "custom",
+                                        "__globals__": {
+                                            "item_icon_primary_color": "globals\/colors?id=primary",
+                                            "item_icon_secondary_color": "globals\/colors?id=f74a39a"
+                                        },
+                                        "_id": "e20da32"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-x-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "item_icon_color": "custom",
+                                        "__globals__": {
+                                            "item_icon_primary_color": "globals\/colors?id=primary",
+                                            "item_icon_secondary_color": "globals\/colors?id=f74a39a"
+                                        },
+                                        "_id": "b188794"
+                                    }
+                                ],
+                                "align": "left",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 34,
+                                    "sizes": []
+                                },
+                                "icon_padding": {
+                                    "unit": "px",
+                                    "size": 7,
+                                    "sizes": []
+                                },
+                                "icon_padding_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "icon_padding_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "icon_spacing": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "8",
+                                    "bottom": "8",
+                                    "left": "8",
+                                    "isLinked": true
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_animation_delay": 400
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "3930f694",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "4",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=6b78f35"
+                },
+                "flex_gap": {
+                    "column": "32",
+                    "row": "32",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 32
+                }
+            },
+            "elements": [
+                {
+                    "id": "4316019b",
+                    "settings": {
+                        "text": "Your Questions {{Answered}}",
+                        "__globals__": {
+                            "head_typography_typography": "globals\/typography?id=38f9d9d",
+                            "wrap_head_typography_typography": "globals\/typography?id=f923ef6",
+                            "wrap_headtext_background_color": "globals\/colors?id=e295b0d",
+                            "headtext_background_color": "globals\/colors?id=e295b0d"
+                        },
+                        "headtext_background_background": "classic",
+                        "wrap_headtext_background_background": "classic",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 58,
+                            "sizes": []
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_flex_align_self": "center",
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rkit_advanced_heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "42d251df",
+                    "settings": {
+                        "editor": "<p>Explore answers to common questions about our services, process, and more. We're here to provide clarity and support as you embark on your journey to mental well-being.<\/p>",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 38,
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "_flex_align_self": "center",
+                        "_element_custom_width_tablet": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 100
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "1612b52b",
+                    "settings": {
+                        "list_items": [
+                            {
+                                "accordion_title": "What types of therapy do you offer?",
+                                "open_default": "yes",
+                                "item_description": "<p>We offer a range of therapy options, including individual therapy, group therapy, and family therapy. Our experienced therapists work closely with you to determine the best approach for your needs.<\/p>",
+                                "_id": "348f258"
+                            },
+                            {
+                                "accordion_title": "How do I know if therapy is right for me?",
+                                "item_description": "<p>We offer a range of therapy options, including individual therapy, group therapy, and family therapy. Our experienced therapists work closely with you to determine the best approach for your needs.<\/p>",
+                                "_id": "56f67c8"
+                            },
+                            {
+                                "accordion_title": "How long does a therapy session typically last?",
+                                "item_description": "<p>We offer a range of therapy options, including individual therapy, group therapy, and family therapy. Our experienced therapists work closely with you to determine the best approach for your needs.<\/p>",
+                                "_id": "084c113"
+                            },
+                            {
+                                "accordion_title": "Do you offer virtual therapy sessions?",
+                                "item_description": "<p>Do you offer virtual therapy sessions?<\/p>",
+                                "_id": "4bf9462"
+                            },
+                            {
+                                "accordion_title": "How do I schedule an appointment?",
+                                "item_description": "<p>How do I schedule an appointment?<\/p>",
+                                "_id": "c9b13f1"
+                            }
+                        ],
+                        "accordion_spacing": {
+                            "unit": "px",
+                            "size": 24,
+                            "sizes": []
+                        },
+                        "title_padding": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "0",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "title_radius_close": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        },
+                        "acc_background_close_background": "classic",
+                        "acc_border_close_border": "solid",
+                        "acc_border_close_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "title_radius_open": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "acc_background_open_background": "classic",
+                        "acc_border_open_border": "solid",
+                        "acc_background_hover_background": "classic",
+                        "acc_border_hover_border": "solid",
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 24,
+                            "sizes": []
+                        },
+                        "icon_box_width": {
+                            "unit": "px",
+                            "size": 48,
+                            "sizes": []
+                        },
+                        "icon_box_height": {
+                            "unit": "px",
+                            "size": 48,
+                            "sizes": []
+                        },
+                        "icon_box_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "icon_box_radius": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "40",
+                            "bottom": "40",
+                            "left": "40",
+                            "isLinked": true
+                        },
+                        "icon_background_close_background": "classic",
+                        "icon_background_open_background": "classic",
+                        "icon_background_hover_background": "classic",
+                        "content_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "100",
+                            "bottom": "20",
+                            "left": "35",
+                            "isLinked": false
+                        },
+                        "content_radius": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": false
+                        },
+                        "background_background": "classic",
+                        "__globals__": {
+                            "title_typography_typography": "globals\/typography?id=fa4db82",
+                            "content_typography_typography": "globals\/typography?id=text",
+                            "text_color_close": "globals\/colors?id=secondary",
+                            "acc_background_close_color": "globals\/colors?id=f74a39a",
+                            "content_color": "globals\/colors?id=text",
+                            "background_color": "globals\/colors?id=f74a39a",
+                            "icon_color_close": "globals\/colors?id=secondary",
+                            "icon_background_close_color": "globals\/colors?id=f74a39a",
+                            "text_color_open": "globals\/colors?id=secondary",
+                            "acc_background_open_color": "globals\/colors?id=f74a39a",
+                            "acc_border_close_color": "globals\/colors?id=63479fd",
+                            "icon_color_open": "globals\/colors?id=f74a39a",
+                            "icon_background_open_color": "globals\/colors?id=e32684d",
+                            "icon_color_hover": "globals\/colors?id=f74a39a",
+                            "icon_background_hover_color": "globals\/colors?id=e32684d",
+                            "text_color_hover": "globals\/colors?id=secondary",
+                            "acc_background_hover_color": "globals\/colors?id=f74a39a",
+                            "icon_border_close_color": "globals\/colors?id=4640e4c",
+                            "acc_border_open_color": "globals\/colors?id=63479fd",
+                            "acc_border_hover_color": "globals\/colors?id=63479fd",
+                            "border_content_color": "globals\/colors?id=63479fd"
+                        },
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_animation_delay": 200,
+                        "icon_border_close_border": "solid",
+                        "icon_border_close_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "content_padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "30",
+                            "bottom": "30",
+                            "left": "30",
+                            "isLinked": false
+                        },
+                        "acc_border_open_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "0",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "acc_border_hover_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_content_border": "solid",
+                        "border_content_width": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rkit-accordion",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "6404b8f3",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1519,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_size": "cover",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "4",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "4",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary"
+                }
+            },
+            "elements": [
+                {
+                    "id": "88b7fed",
+                    "settings": {
+                        "content_width": "full",
+                        "min_height": {
+                            "unit": "px",
+                            "size": 350,
+                            "sizes": []
+                        },
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/kit.createbigsupply.com\/harmony\/wp-content\/uploads\/sites\/19\/2024\/12\/Group-11-1.png",
+                            "id": 232,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "center center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "contain",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "flex_justify_content": "center",
+                        "flex_gap": {
+                            "column": "31",
+                            "row": "31",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 31
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7d2ad181",
+                            "settings": {
+                                "text": "Take the First Step {{Toward Healing}}",
+                                "__globals__": {
+                                    "head_typography_typography": "globals\/typography?id=38f9d9d",
+                                    "wrap_head_typography_typography": "globals\/typography?id=f923ef6",
+                                    "wrap_headtext_background_color": "globals\/colors?id=f74a39a",
+                                    "headtext_background_color": "globals\/colors?id=f74a39a"
+                                },
+                                "headtext_background_background": "classic",
+                                "wrap_headtext_background_background": "classic",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 63,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_flex_align_self": "center",
+                                "_element_custom_width_tablet": {
+                                    "unit": "px",
+                                    "size": 1000,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "rkit_advanced_heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "358ee4bd",
+                            "settings": {
+                                "editor": "<p>Schedule an appointment with us and experience the warmth and understanding of our compassionate team.<\/p>",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 52,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "_flex_align_self": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=f74a39a"
+                                },
+                                "_element_custom_width_tablet": {
+                                    "unit": "px",
+                                    "size": 1000,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_animation_delay": 100
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "61e38fe4",
+                            "settings": {
+                                "ekit_btn_text": "Book Your Appointment",
+                                "ekit_btn_text_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "32",
+                                    "bottom": "15",
+                                    "left": "32",
+                                    "isLinked": false
+                                },
+                                "ekit_btn_bg_color_background": "classic",
+                                "ekit_btn_border_radius": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "ekit_btn_typography_typography": "globals\/typography?id=accent",
+                                    "ekit_btn_text_color": "globals\/colors?id=f74a39a",
+                                    "ekit_btn_bg_color_color": "globals\/colors?id=e32684d",
+                                    "ekit_btn_hover_color": "globals\/colors?id=e32684d",
+                                    "ekit_btn_bg_hover_color_color": "globals\/colors?id=751bbcc",
+                                    "ekit_btn_border_color": "globals\/colors?id=e32684d",
+                                    "ekit_btn_hover_border_color": "globals\/colors?id=e32684d"
+                                },
+                                "ekit_btn_bg_hover_color_background": "classic",
+                                "ekit_btn_border_style": "solid",
+                                "ekit_btn_border_dimensions": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_flex_align_self": "center",
+                                "_animation": "bounceInUp",
+                                "animation_duration": "slow",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

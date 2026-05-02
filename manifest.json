@@ -1,0 +1,1936 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "NuraCare - Mental Health Clinic Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.png",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/homepage\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.png",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Therapist Profile",
+            "screenshot": "screenshots\/therapist-profile.png",
+            "source": "templates\/therapist-profile.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/therapist-profile\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Booking",
+            "screenshot": "screenshots\/booking.png",
+            "source": "templates\/booking.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/booking\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.png",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Resources",
+            "screenshot": "screenshots\/resources.png",
+            "source": "templates\/resources.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/resources\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Events",
+            "screenshot": "screenshots\/events.png",
+            "source": "templates\/events.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/events\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Galery",
+            "screenshot": "screenshots\/galery.png",
+            "source": "templates\/galery.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/galery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Career Opportunities",
+            "screenshot": "screenshots\/career-opportunities.png",
+            "source": "templates\/career-opportunities.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/career-opportunities\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.png",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 error",
+            "screenshot": "screenshots\/404-error.png",
+            "source": "templates\/404-error.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/404-error\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.png",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kit.createbigsupply.com\/nuracare\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.3.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Ultimate Addons for Elementor Lite",
+            "version": "2.0.5",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force"
+        },
+        {
+            "name": "RomethemeKit For Elementor",
+            "version": "1.5.2",
+            "file": "rometheme-for-elementor\/RomeTheme.php",
+            "author": "Rometheme"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.26.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.9.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Rectangle-14.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-14.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                },
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 3155,
+            "dimensions": [
+                288,
+                346
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-group-of-young-people-in-circle-2023-11-27-05-07-55-utc-2-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/happy-group-of-young-people-in-circle-2023-11-27-05-07-55-utc-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                },
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 107000,
+            "dimensions": [
+                704,
+                346
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/happy-group-of-young-people-in-circle-XVGXNXH"
+        },
+        {
+            "filename": "Rectangle-15.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-15.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                },
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 3348,
+            "dimensions": [
+                288,
+                346
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-37729.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-37729.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 1867,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-37729-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-37729-1.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 2870,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-37729-2.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-37729-2.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 2750,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-37729-3.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-37729-3.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 2276,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-11-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Group-11-1-800x218.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                },
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 146808,
+            "dimensions": [
+                1279,
+                349
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/multiethnic-group-of-young-happy-friends-hanging-o-GDYPPXH"
+        },
+        {
+            "filename": "Rectangle-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 198859,
+            "dimensions": [
+                274,
+                664
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/cropped-portrait-of-an-attractive-young-businesswo-FLHA4LK"
+        },
+        {
+            "filename": "Rectangle-2.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 104644,
+            "dimensions": [
+                225,
+                524
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/doing-what-i-love-5UCLUXD"
+        },
+        {
+            "filename": "WavesPattern-byGhostlyPixels-1-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/WavesPattern-byGhostlyPixels-1-1-800x660.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 176826,
+            "dimensions": [
+                2796,
+                2305
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Rectangle-4-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 105211,
+            "dimensions": [
+                588,
+                341
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/selfie-friends-and-a-business-team-in-the-office-t-9Y4K8EU"
+        },
+        {
+            "filename": "Group-3.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Group-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2653,
+            "dimensions": [
+                105,
+                96
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-3-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Group-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2500,
+            "dimensions": [
+                116,
+                109
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-3-2.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Group-3-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2674,
+            "dimensions": [
+                93,
+                107
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "diversity_1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 2419,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "diversity_1-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 2189,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "diversity_1-2.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 2011,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Rectangle-5.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                }
+            ],
+            "filesize": 175006,
+            "dimensions": [
+                283,
+                361
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/hes-a-confident-young-businessman-portrait-of-a-ha-HKJYTLH"
+        },
+        {
+            "filename": "Rectangle-5-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-5-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                }
+            ],
+            "filesize": 144108,
+            "dimensions": [
+                283,
+                361
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/eye-exam-arms-crossed-and-portrait-of-man-optometr-A2G227E"
+        },
+        {
+            "filename": "Rectangle-5-2.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-5-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                },
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 136578,
+            "dimensions": [
+                283,
+                361
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-blonde-woman-in-black-jacket-sitting-at-t-PYK95F2"
+        },
+        {
+            "filename": "Rectangle-5-3.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-5-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                }
+            ],
+            "filesize": 170606,
+            "dimensions": [
+                283,
+                361
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-cheerful-young-man-smiling-brightly--HGJH3UH"
+        },
+        {
+            "filename": "Rectangle-5-4-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-5-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 119041,
+            "dimensions": [
+                511,
+                546
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/young-designer-with-a-big-smile-after-an-office-me-3XWZBYQ"
+        },
+        {
+            "filename": "Rectangle-5-5-1_11zon.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Rectangle-5-5-1_11zon-800x352.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 90701,
+            "dimensions": [
+                1240,
+                546
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/multigenerational-workers-smiling-in-front-of-came-9LME9PQ"
+        },
+        {
+            "filename": "Group-11-2-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Group-11-2-1-800x218.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 146774,
+            "dimensions": [
+                1279,
+                349
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/multiracial-young-people-smiling-together-at-camer-9LAAASS"
+        },
+        {
+            "filename": "abandoned-warehouse-2024-09-16-21-19-21-utc_11zon.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/abandoned-warehouse-2024-09-16-21-19-21-utc_11zon-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 241442,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/abandoned-warehouse-QTRPH23"
+        },
+        {
+            "filename": "comforting-girl-at-psychological-session-2024-07-10-23-01-42-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/comforting-girl-at-psychological-session-2024-07-10-23-01-42-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 187121,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/comforting-girl-at-psychological-session-JPES8AC"
+        },
+        {
+            "filename": "african-american-doctor-offering-tissue-to-a-patie-2024-12-13-18-19-36-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/african-american-doctor-offering-tissue-to-a-patie-2024-12-13-18-19-36-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 195837,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/african-american-doctor-offering-tissue-to-a-patie-S7QZBR5"
+        },
+        {
+            "filename": "successful-psychologist-at-office-2023-11-27-05-19-34-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/successful-psychologist-at-office-2023-11-27-05-19-34-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                }
+            ],
+            "filesize": 186634,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/successful-psychologist-at-office-BACGAK3"
+        },
+        {
+            "filename": "support-black-woman-and-senior-group-therapy-with-2023-11-27-04-50-36-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/support-black-woman-and-senior-group-therapy-with-2023-11-27-04-50-36-utc-800x527.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 157086,
+            "dimensions": [
+                1920,
+                1264
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/support-black-woman-and-senior-group-therapy-with--DKEC82L"
+        },
+        {
+            "filename": "happy-financial-advisor-having-a-meeting-with-her-2024-12-13-18-18-08-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/happy-financial-advisor-having-a-meeting-with-her-2024-12-13-18-18-08-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 187181,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/happy-financial-advisor-having-a-meeting-with-her--AQBSFNJ"
+        },
+        {
+            "filename": "cheerful-confident-real-estate-agent-with-clipboar-2023-11-27-05-16-42-utc-2.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/cheerful-confident-real-estate-agent-with-clipboar-2023-11-27-05-16-42-utc-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                },
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 182909,
+            "dimensions": [
+                283,
+                361
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-confident-real-estate-agent-with-clipboar-92L3N3C"
+        },
+        {
+            "filename": "mature-man-outdoor-and-portrait-for-confidence-as-2024-11-27-20-20-09-utc-2.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/mature-man-outdoor-and-portrait-for-confidence-as-2024-11-27-20-20-09-utc-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                }
+            ],
+            "filesize": 212173,
+            "dimensions": [
+                284,
+                361
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/mature-man-outdoor-and-portrait-for-confidence-as--W6D5PYW"
+        },
+        {
+            "filename": "mature-business-man-street-and-portrait-with-glas-2023-11-27-04-53-58-utc-2.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/mature-business-man-street-and-portrait-with-glas-2023-11-27-04-53-58-utc-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                },
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 173735,
+            "dimensions": [
+                284,
+                361
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/mature-business-man-street-and-portrait-with-glass-82H7TN2"
+        },
+        {
+            "filename": "at-the-psychologist-2023-11-27-05-14-17-utc-2.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/at-the-psychologist-2023-11-27-05-14-17-utc-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                }
+            ],
+            "filesize": 169628,
+            "dimensions": [
+                283,
+                361
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/at-the-psychologist-R7BQS5Z"
+        },
+        {
+            "filename": "Frame-54.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-54.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 2314,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-54-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-54-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 2043,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-54-2.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-54-2.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 2047,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "soldier-in-military-uniform-talking-to-psychiatris-2024-12-06-22-58-14-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/soldier-in-military-uniform-talking-to-psychiatris-2024-12-06-22-58-14-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                },
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 235760,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/soldier-in-military-uniform-talking-to-psychiatris-BK89ZWW"
+        },
+        {
+            "filename": "Frame-84.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-84.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 747,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-85.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-85.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 868,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-86.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-86.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 948,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-professional-psychologist-consults-a-m-2024-12-05-14-43-26-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/portrait-of-professional-psychologist-consults-a-m-2024-12-05-14-43-26-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 189262,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-professional-psychologist-consults-a-m-VV3WGUS"
+        },
+        {
+            "filename": "psychologist-providing-psychological-support-to-a-2024-10-18-05-38-19-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/psychologist-providing-psychological-support-to-a-2024-10-18-05-38-19-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 182409,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/psychologist-providing-psychological-support-to-a--5BCJ884"
+        },
+        {
+            "filename": "diversity_1-3.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-3.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1613,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "diversity_1-4.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-4.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1702,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "diversity_1-5.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-5.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1800,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "diversity_1-6.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-6.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1511,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "diversity_1-7.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-7.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1733,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-84-1.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-84-1.png",
+            "templates": [
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                }
+            ],
+            "filesize": 1327,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-84-2.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-84-2.png",
+            "templates": [
+                {
+                    "source": "templates\/therapist-profile.json",
+                    "name": "Therapist Profile"
+                }
+            ],
+            "filesize": 1204,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "relaxed-freelancer-black-woman-rest-after-work-on-2024-06-28-02-06-57-utc-1.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/relaxed-freelancer-black-woman-rest-after-work-on-2024-06-28-02-06-57-utc-1-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 182413,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/relaxed-freelancer-black-woman-rest-after-work-on--A4NYRBM"
+        },
+        {
+            "filename": "sad-woman-sitting-on-a-stairs-in-a-city-street-and-2023-11-27-05-18-32-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/sad-woman-sitting-on-a-stairs-in-a-city-street-and-2023-11-27-05-18-32-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 231332,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/sad-woman-sitting-on-a-stairs-in-a-city-street-and-65X8W6Q"
+        },
+        {
+            "filename": "cropped-Logo-harmony-2.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/cropped-Logo-harmony-2.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 12830,
+            "dimensions": [
+                294,
+                53
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "tired-female-student-has-deadline-to-prepare-repor-2023-11-27-05-24-57-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/tired-female-student-has-deadline-to-prepare-repor-2023-11-27-05-24-57-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 202491,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/tired-female-student-has-deadline-to-prepare-repor-JD8JTW3"
+        },
+        {
+            "filename": "confused-shocked-busy-female-office-worker-wears-f-2023-11-27-05-37-22-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/confused-shocked-busy-female-office-worker-wears-f-2023-11-27-05-37-22-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 189275,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/confused-shocked-busy-female-office-worker-wears-f-P7V4WQK"
+        },
+        {
+            "filename": "photo-of-curly-haired-woman-covers-half-of-face-fe-2023-11-27-05-16-15-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/photo-of-curly-haired-woman-covers-half-of-face-fe-2023-11-27-05-16-15-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 239242,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/photo-of-curly-haired-woman-covers-half-of-face-fe-D6DSF4Q"
+        },
+        {
+            "filename": "photo-of-sleepy-dark-skinned-curly-woman-yawns-and-2023-11-27-05-37-25-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/photo-of-sleepy-dark-skinned-curly-woman-yawns-and-2023-11-27-05-37-25-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 224373,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/photo-of-sleepy-dark-skinned-curly-woman-yawns-and-3L9GLXH"
+        },
+        {
+            "filename": "Frame-84-3.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-84-3.png",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 1109,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-84-4.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/Frame-84-4.png",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 1336,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "multi-cultural-team-in-workshop-assembling-hand-bu-2024-10-19-10-23-09-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/multi-cultural-team-in-workshop-assembling-hand-bu-2024-10-19-10-23-09-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 184848,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/multi-cultural-team-in-workshop-assembling-hand-bu-BKZ9UVN"
+        },
+        {
+            "filename": "patients-visiting-clinic-2023-11-27-05-29-57-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/patients-visiting-clinic-2023-11-27-05-29-57-utc-800x543.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 186150,
+            "dimensions": [
+                1920,
+                1302
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/patients-visiting-clinic-3BUCTHM"
+        },
+        {
+            "filename": "group-attending-neighborhood-meeting-listening-to-2024-10-19-11-54-27-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/group-attending-neighborhood-meeting-listening-to-2024-10-19-11-54-27-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 208839,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/group-attending-neighborhood-meeting-listening-to--U2GPMRS"
+        },
+        {
+            "filename": "interracial-printing-shop-female-workers-doing-qua-2024-04-18-16-15-59-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/interracial-printing-shop-female-workers-doing-qua-2024-04-18-16-15-59-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 173505,
+            "dimensions": [
+                1920,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/interracial-printing-shop-female-workers-doing-qua-HXKPPDB"
+        },
+        {
+            "filename": "confident-mature-female-psychologist-in-formalwear-2023-11-27-04-56-50-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/confident-mature-female-psychologist-in-formalwear-2023-11-27-04-56-50-utc-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 188669,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/confident-mature-female-psychologist-in-formalwear-CNG24TJ"
+        },
+        {
+            "filename": "medical-professional-and-patient-in-clinic-setting-2024-02-29-21-46-28-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/medical-professional-and-patient-in-clinic-setting-2024-02-29-21-46-28-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 196013,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/medical-professional-and-patient-in-clinic-setting-YVTCD53"
+        },
+        {
+            "filename": "nurse-consulting-patient-at-facility-reception-cou-2023-11-27-04-49-38-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/nurse-consulting-patient-at-facility-reception-cou-2023-11-27-04-49-38-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 236189,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/nurse-consulting-patient-at-facility-reception-cou-EH75Z9W"
+        },
+        {
+            "filename": "in-the-clinic-a-young-blonde-girl-at-an-appointmen-2024-12-04-16-43-50-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/in-the-clinic-a-young-blonde-girl-at-an-appointmen-2024-12-04-16-43-50-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 159617,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/in-the-clinic-a-young-blonde-girl-at-an-appointmen-NGXYW6H"
+        },
+        {
+            "filename": "empty-doctors-office-viewed-through-open-door-2024-10-19-10-28-31-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/empty-doctors-office-viewed-through-open-door-2024-10-19-10-28-31-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 217834,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/empty-doctors-office-viewed-through-open-door-F8RPNDB"
+        },
+        {
+            "filename": "dental-hygienist-interacting-with-patients-in-the-2024-10-07-21-33-34-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/dental-hygienist-interacting-with-patients-in-the-2024-10-07-21-33-34-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 210500,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/dental-hygienist-interacting-with-patients-in-the--WRT65TP"
+        },
+        {
+            "filename": "interior-of-obstetric-clinic-cabinet-indoors-with-2023-11-27-04-59-19-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/interior-of-obstetric-clinic-cabinet-indoors-with-2023-11-27-04-59-19-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 212113,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/interior-of-obstetric-clinic-cabinet-indoors-with--JXHAG48"
+        },
+        {
+            "filename": "entering-the-medical-consultation-together-2024-02-29-21-46-28-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/entering-the-medical-consultation-together-2024-02-29-21-46-28-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 209303,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/entering-the-medical-consultation-together-KGFC7B6"
+        },
+        {
+            "filename": "doctor-s-consultation-in-a-clinical-office-2024-08-19-22-52-57-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/doctor-s-consultation-in-a-clinical-office-2024-08-19-22-52-57-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 159093,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/doctors-consultation-in-a-clinical-office-ZYM9N2C"
+        },
+        {
+            "filename": "empty-space-of-a-hospital-consultation-room-2024-12-09-05-14-41-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/empty-space-of-a-hospital-consultation-room-2024-12-09-05-14-41-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/galery.json",
+                    "name": "Galery"
+                }
+            ],
+            "filesize": 184578,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/empty-space-of-a-hospital-consultation-room-9YQ9FBH"
+        },
+        {
+            "filename": "diversity_1-8.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-8.png",
+            "templates": [
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 2511,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "diversity_1-10.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-10.png",
+            "templates": [
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 2492,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "diversity_1-9.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-9.png",
+            "templates": [
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 2448,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "diversity_1-11.png",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/diversity_1-11.png",
+            "templates": [
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 2601,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "african-female-therapist-listens-to-mid-adult-male-2024-10-18-06-30-42-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/african-female-therapist-listens-to-mid-adult-male-2024-10-18-06-30-42-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 224370,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/african-female-therapist-listens-to-mid-adult-male-P9AVHSG"
+        },
+        {
+            "filename": "happy-asian-woman-looking-at-camera-while-visiting-2023-11-27-05-34-23-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/happy-asian-woman-looking-at-camera-while-visiting-2023-11-27-05-34-23-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career-opportunities.json",
+                    "name": "Career Opportunities"
+                }
+            ],
+            "filesize": 171811,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/happy-asian-woman-looking-at-camera-while-visiting-K9BBSNN"
+        },
+        {
+            "filename": "the-pressure-is-starting-to-tell-2024-05-23-20-10-00-utc.jpg",
+            "thumbnail_url": "https:\/\/kit.createbigsupply.com\/nuracare\/wp-content\/uploads\/sites\/19\/2024\/12\/the-pressure-is-starting-to-tell-2024-05-23-20-10-00-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-error.json",
+                    "name": "404 error"
+                }
+            ],
+            "filesize": 183542,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/the-pressure-is-starting-to-tell-ZXBBSS7"
+        }
+    ]
+}
